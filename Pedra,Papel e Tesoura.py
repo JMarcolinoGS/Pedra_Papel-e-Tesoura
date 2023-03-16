@@ -1,4 +1,5 @@
 import random
+print("Seja bem vindo")
 
 user_points = 0
 computer_points = 0
