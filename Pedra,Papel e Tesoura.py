@@ -1,5 +1,5 @@
 import random
-print("Seja bem v
+print("Seja bem
 
 user_points = 0
 computer_points = 0
