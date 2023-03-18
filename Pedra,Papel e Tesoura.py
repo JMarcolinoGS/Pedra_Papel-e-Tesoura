@@ -1,4 +1,4 @@
-import random
+import rand
 
 user_points = 0
 computer_points = 0
