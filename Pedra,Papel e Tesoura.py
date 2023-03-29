@@ -15,7 +15,8 @@ while True:
 
 
 computer_choices = random.randint(0,2)
-     # 0 = r(pedra)/ 1 = p(Papel)/ 2 = t(Tesoura)
+     # 0 que corresponde a r = (pedra), 1 = p(Papel),  2 = t(Tesoura)
+    
 computer_options = option[computer_choices]
 print("O computador escolheu"+ computer_options)
 
